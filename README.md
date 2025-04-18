@@ -24,6 +24,9 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=kisilumueti&icon=8&color=3)](https://visitcount.itsvg.in)
 
+## About Me
+I'm currently building a professional portfolio with GitHub Pages.
+
   ## 💰 You can help me by Donating
   [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/muetijohnbosco35@gmail.com) 
 
