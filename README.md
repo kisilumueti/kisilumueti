@@ -1,34 +1,105 @@
-# 💫 About Me:
-🔭 I’m currently working on:<br>- MedFlow: A web-based hospital consultation system that assists doctors in diagnosing and tracking patient progress, especially for TB. I'm focusing on integrating AI for analysis of X-rays, symptoms, and patient data to aid in medication prescriptions.<br>- E-Space Web Server Management System: A web application for managing servers, focusing on backend integration with MySQL and frontend development using Thymeleaf, HTML, CSS, JavaScript, and Bootstrap.<br>- SnackHub: A social media platform built with Java and Apache Ant in NetBeans. The app includes features like user registration, login, dashboard, and snack management, with an admin panel for managing traffic, revenue, and users.<br><br>👯 I’m looking to collaborate on:<br>- MedFlow: I’m open to collaborating with medical professionals, developers, or AI experts who can contribute to improving patient data tracking and diagnosis prediction.<br>- E-Space Web Server Management System: Looking for partners in database optimization, user interface design, or cloud integration to improve server management.<br>- SnackHub: Collaboration with web developers familiar with Java web technologies to refine the platform’s features, security, and scalability.<br><br>🤝I’m looking for help with:<br>- MedFlow: Integrating AI models into the system, specifically for TB diagnosis and patient progress tracking. Assistance with MySQL database design and implementing features for medication prescriptions would also be appreciated.<br>- E-Space Web Server Management System: Help with server-side scripting, user access management, and implementing secure login features. Any tips on optimizing the Thymeleaf template engine for a smoother UI experience would be great.<br>- SnackHub: Assistance with improving backend functionalities using Java and Ant, particularly in handling user data and improving the overall responsiveness of the platform.<br><br>🌱 I’m currently learning:<br>- MedFlow: I’m learning how to integrate machine learning models for more accurate diagnoses and improving the patient data analysis.<br>- E-Space Web Server Management System: Exploring advanced MySQL features and optimizing server management functionalities.<br>- SnackHub: I’m currently enhancing my skills in Java web development and learning more about scalable web application architecture.<br><br>💬 Ask me about:<br>- MedFlow: How it integrates AI for TB diagnosis and its impact on improving healthcare records management.<br>- E-Space Web Server Management System: How the platform can be used to optimize and manage web server tasks efficiently.<br>- SnackHub: The development of a social media platform using Java, including challenges related to user traffic and snack management.<br><br>⚡ Fun fact:<br>- MedFlow: It’s amazing how AI can assist in diagnosing TB early by analyzing patterns in X-ray images. It's an exciting field where healthcare and technology intersect!<br>- E-Space Web Server Management System: Managing web servers can feel like controlling a spaceship – optimizing performance, ensuring security, and handling all the backend operations.<br>- SnackHub: Did you know that the snack industry is projected to grow rapidly in the coming years, making platforms like SnackHub a potential hub for snack lovers everywhere?
+# Johnbosco Kisilu Mueti
 
+### Software Developer · IT Support & Systems Administrator · Healthcare Technology
 
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/musetikisilu) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/john bosco) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/techkenya_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/johnboscokisilumueti) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/muetijohnbosco35) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/Johnbosco Mueti) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/muetikisilu) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@healthycommunity_) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/johnboscomueti) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@muetikisilu) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Kisilu) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:muetijohnbosco35@gmail.com) 
+I build and support practical software systems, business applications, and IT infrastructure. My work sits at the intersection of **software engineering, healthcare information systems, and operational IT** — with a focus on reliable systems, secure data handling, maintainable code, and solving real operational problems.
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Objective-C](https://img.shields.io/badge/OBJECTIVE--C-%233A95E3.svg?style=for-the-badge&logo=apple&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Perl](https://img.shields.io/badge/perl-%2339457E.svg?style=for-the-badge&logo=perl&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![ReScript](https://img.shields.io/badge/rescript-%2314162c?style=for-the-badge&logo=rescript&logoColor=e34c4c) ![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white) ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white) ![Alibaba Cloud](https://img.shields.io/badge/AlibabaCloud-%23FF6701.svg?style=for-the-badge&logo=alibabacloud&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![OpenStack](https://img.shields.io/badge/Openstack-%23f01742.svg?style=for-the-badge&logo=openstack&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white) ![Ant-Design](https://img.shields.io/badge/-AntDesign-%230170FE?style=for-the-badge&logo=ant-design&logoColor=white) ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-FDEE21?style=for-the-badge&logo=apachespark&logoColor=black) ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) ![Context-API](https://img.shields.io/badge/Context--Api-000000?style=for-the-badge&logo=react) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Insomnia](https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![Livewire](https://img.shields.io/badge/livewire-%234e56a6.svg?style=for-the-badge&logo=livewire&logoColor=white) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![Node-RED](https://img.shields.io/badge/Node--RED-%238F0000.svg?style=for-the-badge&logo=node-red&logoColor=white) ![OpenGL](https://img.shields.io/badge/OpenGL-%23FFFFFF.svg?style=for-the-badge&logo=opengl) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![SolidJS](https://img.shields.io/badge/SolidJS-2c4f7c?style=for-the-badge&logo=solid&logoColor=c8c9cb) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Stylus](https://img.shields.io/badge/stylus-%23ff6347.svg?style=for-the-badge&logo=stylus&logoColor=white) ![Thymeleaf](https://img.shields.io/badge/Thymeleaf-%23005C0F.svg?style=for-the-badge&logo=Thymeleaf&logoColor=white) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![Vuetify](https://img.shields.io/badge/Vuetify-1867C0?style=for-the-badge&logo=vuetify&logoColor=AEDDFF) ![WebGL](https://img.shields.io/badge/WebGL-990000?logo=webgl&logoColor=white&style=for-the-badge) ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black) ![Windicss](https://img.shields.io/badge/windicss-48B0F1.svg?style=for-the-badge&logo=windi-css&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Apache Ant](https://img.shields.io/badge/Apache%20Ant-A81C7D?style=for-the-badge&logo=Apache%20Ant&logoColor=white) ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Arango DB](https://img.shields.io/badge/ArangoDB-DDE072?style=for-the-badge&logo=arangodb&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) ![Adobe Lightroom Classic](https://img.shields.io/badge/Adobe%20Lightroom%20Classic-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom%20Classic&logoColor=white) ![Clip Studio Paint](https://img.shields.io/badge/ClipStudioPaint-%23CFD3D3.svg?style=for-the-badge&logo=ClipStudioPaint&logoColor=white) ![Dribbble](https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white) ![Epic Games](https://img.shields.io/badge/epicgames-%23313131.svg?style=for-the-badge&logo=epicgames&logoColor=white) ![EA](https://img.shields.io/badge/ea-%23000000.svg?style=for-the-badge&logo=ea&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black) ![Jellyfin](https://img.shields.io/badge/jellyfin-%23000B25.svg?style=for-the-badge&logo=Jellyfin&logoColor=00A4DC) ![Meta](https://img.shields.io/badge/Meta-%230467DF.svg?style=for-the-badge&logo=Meta&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Prettier](https://img.shields.io/badge/prettier-%23F7B93E.svg?style=for-the-badge&logo=prettier&logoColor=black)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=kisilumueti&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=kisilumueti&theme=shadow_blue&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=kisilumueti&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=kisilumueti&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=kisilumueti&limit=5&theme=dark&combine_all_yearly_contributions=true)
+[Portfolio](https://muetiintegratedsolutions.com) · [LinkedIn](https://www.linkedin.com/in/johnboscokisilumueti) · [Email](mailto:muetijohnbosco35@gmail.com) · [GitHub](https://github.com/kisilumueti)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=kisilumueti&icon=8&color=3)](https://visitcount.itsvg.in)
 
-## About Me
-I'm currently building a professional portfolio with GitHub Pages.
+## About
 
-  ## 💰 You can help me by Donating
-  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/muetijohnbosco35@gmail.com) 
+- **Software development:** Building web applications, backend services, APIs, database-driven systems, and workflow automation.
+- **Healthcare IT:** Supporting hospital information systems, clinical workflows, user access, workstations, printers, and operational technology.
+- **Systems administration:** Application support, troubleshooting, database administration, networking, deployment, and user support.
+- **Engineering interests:** Financial technology, distributed systems, data integrity, secure APIs, and scalable application architecture.
 
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+I have a **Bachelor of Business Information Technology** background and practical experience supporting technology operations in healthcare and business environments.
+
+## Technical capabilities
+
+| Area | Technologies and tools |
+|---|---|
+| Backend development | PHP, Laravel, Node.js, Python |
+| Programming | JavaScript, TypeScript, Go, C/C++ |
+| Frontend | HTML5, CSS3, JavaScript, Bootstrap |
+| Databases | MySQL, PostgreSQL, SQL |
+| Infrastructure & operations | Linux, Windows, networking, server administration, Docker |
+| APIs & integration | REST APIs, JSON, authentication and third-party integrations |
+| Healthcare systems | Hospital information systems, application support, user and workflow support |
+| Engineering practices | Git, GitHub, testing, documentation, CI workflows |
+
+*Technology badges are intentionally kept focused on tools I use or have worked with, rather than every technology I have encountered.*
+
+## Selected engineering work
+
+### [Fintech Transaction Engine](https://github.com/kisilumueti/fintech-transaction-engine)
+A backend engineering project exploring the foundations of reliable financial transaction processing.
+
+- Go-based HTTP API foundation.
+- Money representation using integer minor units.
+- Double-entry journal validation.
+- PostgreSQL schema for accounts, transactions, ledger entries, audit events, and outbox events.
+- C++23 financial-kernel experiments.
+- Python reconciliation utility and automated quality checks.
+
+**Current status:** Active development. The repository is an evolving engineering project, not a live payment processor or production banking platform.
+
+### Healthcare and business information systems
+I have worked on healthcare and business application environments involving system support, data management, user workflows, and operational reporting. My experience includes supporting **AphiaOne** in hospital environments and developing web-based business systems.
+
+### Web development and systems integration
+I develop database-driven web applications and integrations, with hands-on experience in PHP, Laravel, Node.js, Python, and SQL-based environments.
+
+---
+
+## Professional experience
+
+**Lead ICT Officer — Dr. Spice Organics Ltd**  
+*June 2025 – Present*
+
+- Coordinate ICT operations and provide technical support across business operations.
+- Develop and maintain web-based business systems and database-driven applications.
+- Support users, devices, networks, printers, access controls, and business technology.
+- Work with system data, reporting, application troubleshooting, and operational improvements.
+
+**ICT Support — Machakos County Government (Volunteer/Internship)**  
+*January 2024 – August 2024*
+
+- Supported ICT operations at Kangundo Level 4 Hospital and other county health facilities.
+- Assisted with hospital information system support, including AphiaOne.
+- Supported user accounts, workstations, printers, troubleshooting, and day-to-day ICT operations.
+
+---
+
+## Certifications and learning
+
+- Oracle Fusion Cloud Applications — HCM Certified Foundations Associate
+- Cisco Networking Academy — Computer Hardware Basics
+- Chartered Data Science Certified
+- Data Science — Level 1
+
+I continue to strengthen my skills through practical engineering projects, documentation, testing, and continuous learning.
+
+## What I am interested in
+
+- Backend and API engineering
+- PHP/Laravel, Node.js, Python, and Go development
+- Healthcare information systems and digital health
+- Application support, systems administration, and infrastructure
+- Fintech, transaction processing, and data integrity
+- Remote software engineering and IT opportunities
+
+## Connect
+
+I welcome conversations about software development, healthcare technology, IT operations, technical collaboration, and opportunities to build useful systems.
+
+- **Email:** [muetijohnbosco35@gmail.com](mailto:muetijohnbosco35@gmail.com)
+- **LinkedIn:** [johnboscokisilumueti](https://www.linkedin.com/in/johnboscokisilumueti)
+- **Portfolio:** [muetiintegratedsolutions.com](https://muetiintegratedsolutions.com)
+- **GitHub:** [@kisilumueti](https://github.com/kisilumueti)
+
+---
+
+<sub>Building useful technology, improving systems, and learning through implementation.</sub>
