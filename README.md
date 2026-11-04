@@ -1,86 +1,196 @@
-<!-- =========================================================
-     JOHN BOSCO KISILU MUETI | GITHUB PROFILE README
-     ========================================================= -->
+<!--
+  JOHNBOSCO KISILU MUETI — ENGINEERING & DIGITAL SYSTEMS PROFILE
+  Profile README: github.com/kisilumueti/kisilumueti
+-->
 
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=venom&height=190&color=0:0F172A,50:123B5D,100:0EA5A4&text=JOHNBOSCO%20KISILU%20MUETI&fontColor=FFFFFF&fontSize=34&fontAlignY=42&desc=SOFTWARE%20ENGINEERING%20%7C%20HEALTHCARE%20IT%20%7C%20SYSTEMS%20ADMINISTRATION&descAlignY=64&descSize=12&animation=fadeIn" width="100%" alt="Johnbosco Kisilu Mueti profile banner" />
+<a href="https://muetiintegratedsolutions.com">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=240&color=0:07111F,35:102A43,70:0F766E,100:14B8A6&text=JOHNBOSCO%20KISILU%20MUETI&fontColor=FFFFFF&fontSize=38&fontAlignY=39&desc=SOFTWARE%20%7C%20HEALTHCARE%20IT%20%7C%20BUSINESS%20SYSTEMS%20%7C%20AI&descAlignY=60&descSize=15&animation=twinkling&stroke=0F766E&strokeWidth=1" alt="Johnbosco Kisilu Mueti — Software and Digital Systems" />
+</a>
 
-  <h2>Building dependable software. Supporting critical systems. Solving real problems.</h2>
+<a href="https://muetiintegratedsolutions.com"><img src="https://img.shields.io/badge/OPEN%20PORTFOLIO-0F766E?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Open portfolio" /></a>
+<a href="https://github.com/kisilumueti?tab=repositories"><img src="https://img.shields.io/badge/EXPLORE%20PROJECTS-111827?style=for-the-badge&logo=github&logoColor=white" alt="Explore projects" /></a>
+<a href="https://www.linkedin.com/in/johnboscokisilumueti"><img src="https://img.shields.io/badge/CONNECT%20ON%20LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="mailto:muetijohnbosco35@gmail.com"><img src="https://img.shields.io/badge/CONTACT%20ME-BB4B3E?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 
-  <p>
-    Software Developer&nbsp; • &nbsp;IT Support & Systems Administrator&nbsp; • &nbsp;Healthcare Technology
-  </p>
+<br/>
 
-  <p>
-    <a href="https://muetiintegratedsolutions.com">
-      <img src="https://img.shields.io/badge/PORTFOLIO-Visit%20Website-0F766E?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Visit portfolio" />
-    </a>
-    <a href="https://www.linkedin.com/in/johnboscokisilumueti">
-      <img src="https://img.shields.io/badge/LINKEDIN-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" />
-    </a>
-    <a href="mailto:muetijohnbosco35@gmail.com">
-      <img src="https://img.shields.io/badge/EMAIL-Contact%20Me-BB4B3E?style=for-the-badge&logo=gmail&logoColor=white" alt="Send email" />
-    </a>
-    <a href="https://github.com/kisilumueti?tab=repositories">
-      <img src="https://img.shields.io/badge/PROJECTS-Explore%20Code-24292F?style=for-the-badge&logo=github&logoColor=white" alt="Explore repositories" />
-    </a>
-  </p>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=17&duration=2800&pause=900&color=14B8A6&center=true&vCenter=true&width=850&lines=Software+Developer+%7C+Systems+Builder;Healthcare+IT+%7C+ERP+%7C+POS+%7C+Business+Automation;AI+%7C+Digital+Platforms+%7C+Social+Media+Management;Backend+Engineering+%7C+APIs+%7C+Database+Systems;IT+Operations+%7C+Infrastructure+%7C+Technical+Support" alt="Animated role and technology headlines" />
 
-  <img src="https://komarev.com/ghpvc/?username=kisilumueti&label=PROFILE%20VIEWS&color=0F766E&style=flat-square" alt="Profile views" />
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=kisilumueti&label=PROFILE%20VIEWS&color=0F766E&style=for-the-badge" alt="Profile views" />
 
 </div>
 
 ---
 
-## 01 / Professional profile
+<table>
+<tr>
+<td width="62%" valign="top">
 
-I am a technology professional working across **software development, healthcare information systems, and IT operations**. I build database-driven applications, backend services, and practical digital workflows, while also supporting the infrastructure and users who depend on technology every day.
+## SYSTEM OVERVIEW
 
-My approach combines hands-on engineering with operational problem-solving: understand the workflow, design the right solution, implement it carefully, and support it reliably.
+I am **Johnbosco Kisilu Mueti** — a software developer and IT systems professional working across software engineering, healthcare technology, enterprise and business applications, digital platforms, and IT operations.
 
-- **Application engineering:** Web applications, backend services, REST APIs, integrations, and workflow automation.
-- **Healthcare technology:** Hospital information systems, application support, user workflows, and operational technology.
-- **IT operations:** Systems administration, troubleshooting, networking, access management, and end-user support.
-- **Engineering focus:** Data integrity, maintainable architecture, transaction processing, and dependable services.
+I design, develop, integrate, and support technology that helps organisations manage information, people, services, transactions, and day-to-day operations.
 
-## 02 / Technology stack
+My work spans the full technology lifecycle: understanding business needs, translating workflows into software, building database-backed applications, integrating services, supporting users, and improving operational reliability.
+
+**My engineering principle:** build practical systems, keep the architecture maintainable, protect data integrity, and make technology useful to the people who depend on it.
+
+</td>
+<td width="38%" valign="top">
+
+## QUICK ACCESS
+
+| Destination | Access |
+|---|---|
+| Personal portfolio | [Open website ↗](https://muetiintegratedsolutions.com) |
+| GitHub repositories | [Browse projects ↗](https://github.com/kisilumueti?tab=repositories) |
+| LinkedIn | [Professional profile ↗](https://www.linkedin.com/in/johnboscokisilumueti) |
+| Email | [Send a message ↗](mailto:muetijohnbosco35@gmail.com) |
+| JBinspires YouTube | [Watch channel ↗](https://youtube.com/@jbinspires_official) |
+| JBinspires TikTok | [View TikTok ↗](https://www.tiktok.com/@jbinspires) |
+
+</td>
+</tr>
+</table>
+
+## CAPABILITY MATRIX
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### SOFTWARE ENGINEERING
+- Web application development
+- Backend and API engineering
+- Frontend interfaces and responsive design
+- Database-driven applications
+- Authentication and access control
+- Third-party API integrations
+- Workflow automation
+- Application maintenance and debugging
+- Software documentation and version control
+
+### ENTERPRISE & BUSINESS SYSTEMS
+- ERP concepts and business process automation
+- POS and sales management workflows
+- Inventory and stock management
+- Procurement and supplier workflows
+- Customer and contact management
+- Employee and user management
+- Reporting and operational dashboards
+- Multi-branch business operations
+- Administration and management systems
+
+</td>
+<td width="50%" valign="top">
+
+### HEALTHCARE TECHNOLOGY
+- Hospital information systems (HIS)
+- AphiaOne application support
+- Healthcare workflow and user support
+- Clinical and administrative system operations
+- Data management and reporting
+- Workstation, printer, and account support
+- Digital health systems
+
+### DIGITAL, AI & MEDIA
+- AI-assisted development and productivity workflows
+- AI-enabled application concepts and integrations
+- Social media management and content operations
+- Content planning, publishing, and analytics
+- Audience engagement and community growth
+- Digital brand and platform management
+- Creator workflows for YouTube and TikTok
+- Interactive applications and game-related projects
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### IT OPERATIONS & INFRASTRUCTURE
+- Windows and Linux environments
+- Network setup and troubleshooting
+- Server and hosting administration
+- Database administration
+- User onboarding and access management
+- Hardware and software support
+- CCTV and biometric system support
+- Deployment, maintenance, and technical documentation
+
+</td>
+<td width="50%" valign="top">
+
+### PRODUCT & SYSTEM DESIGN
+- Business workflow analysis
+- Requirements translation
+- System architecture and data modelling
+- Multi-user application design
+- Role-based access concepts
+- Operational reporting
+- Integration planning
+- Reliability, maintainability, and security fundamentals
+
+</td>
+</tr>
+</table>
+
+## TECHNOLOGY ECOSYSTEM
 
 <div align="center">
 
-  <h3>Languages & Backend</h3>
-  <img src="https://skillicons.dev/icons?i=php,laravel,nodejs,js,ts,python,go,cpp&perline=8" alt="PHP, Laravel, Node.js, JavaScript, TypeScript, Python, Go and C++" />
+### Programming languages & web foundations
 
-  <h3>Frontend & Interface</h3>
-  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,react&perline=8" alt="HTML, CSS, Bootstrap and React" />
+<img src="https://skillicons.dev/icons?i=php,js,ts,python,go,cpp,html,css&perline=8" alt="PHP, JavaScript, TypeScript, Python, Go, C++, HTML and CSS" />
 
-  <h3>Data, Infrastructure & Engineering</h3>
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,linux,windows,docker,git,github,vscode&perline=8" alt="MySQL, PostgreSQL, Linux, Windows, Docker, Git, GitHub and VS Code" />
+### Frameworks, runtimes & interface technologies
+
+<img src="https://skillicons.dev/icons?i=laravel,nodejs,express,react,bootstrap,jquery&perline=8" alt="Laravel, Node.js, Express, React, Bootstrap and jQuery" />
+
+### Databases, infrastructure & developer tools
+
+<img src="https://skillicons.dev/icons?i=mysql,postgres,redis,docker,linux,windows,git,github,vscode&perline=9" alt="MySQL, PostgreSQL, Redis, Docker, Linux, Windows, Git, GitHub and VS Code" />
 
 </div>
 
-| Engineering area | Practical capabilities |
+| Category | Technologies and tools |
 |---|---|
-| Backend development | PHP, Laravel, Node.js, Python, Go |
-| Programming | JavaScript, TypeScript, C/C++ |
-| Frontend | HTML5, CSS3, Bootstrap, responsive interfaces |
-| Databases | MySQL, PostgreSQL, SQL, data modelling |
-| APIs & integration | REST APIs, JSON, authentication, third-party integrations |
-| Infrastructure | Linux, Windows, networking, server administration, Docker |
-| Healthcare IT | HIS support, AphiaOne, user and workflow support |
-| Delivery practices | Git, GitHub, testing, documentation, CI workflows |
+| Languages | PHP, JavaScript, TypeScript, Python, Go, C, C++, SQL |
+| Web standards | HTML5, CSS3, JSON, HTTP |
+| Backend & frameworks | Laravel, Node.js, Express.js, PHP application development |
+| Frontend | JavaScript interfaces, Bootstrap, responsive web development |
+| Databases | MySQL, PostgreSQL, SQL, relational data modelling |
+| Infrastructure | Linux, Windows, networking, hosting, server administration |
+| DevOps & workflow | Git, GitHub, Docker, GitHub Actions, CI workflows |
+| Integrations | REST APIs, authentication, third-party services, webhooks |
+| Business platforms | ERP, POS, inventory, sales, reporting, administration systems |
+| Healthcare platforms | HIS, AphiaOne, application and user support |
+| AI & automation | AI-assisted workflows, automation concepts, AI integration exploration |
 
-## 03 / Featured engineering project
+<sub>Technology list reflects tools and languages used across projects, training, and practical work. Individual tools represent different levels of hands-on experience.</sub>
+
+## FEATURED ENGINEERING WORK
 
 <div align="center">
-  <a href="https://github.com/kisilumueti/fintech-transaction-engine">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=kisilumueti&repo=fintech-transaction-engine&theme=transparent&hide_border=true&title_color=0F766E&icon_color=0F766E" alt="Fintech Transaction Engine repository card" />
-  </a>
+
+<a href="https://github.com/kisilumueti/fintech-transaction-engine">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=kisilumueti&repo=fintech-transaction-engine&theme=tokyonight&hide_border=true&border_radius=12" alt="Fintech Transaction Engine project" />
+</a>
+<a href="https://github.com/kisilumueti?tab=repositories">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=kisilumueti&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12&rank_icon=github" alt="GitHub engineering profile statistics" />
+</a>
+
 </div>
 
 ### Fintech Transaction Engine
+**Focus:** Financial data integrity · Backend engineering · Ledger architecture
 
-An evolving backend engineering project exploring the foundations of reliable financial transaction processing.
+An active engineering project exploring the foundations of reliable financial transaction processing.
 
 - Go HTTP API foundation.
 - Integer-based money representation and validation.
@@ -89,38 +199,62 @@ An evolving backend engineering project exploring the foundations of reliable fi
 - C++23 financial-kernel experiments.
 - Python reconciliation utility and automated quality checks.
 
-**Project status:** Active development. This is an engineering project and is not presented as a live payment processor or production banking platform.
+<a href="https://github.com/kisilumueti/fintech-transaction-engine"><img src="https://img.shields.io/badge/INSPECT%20THE%20CODE-0F766E?style=for-the-badge&logo=github&logoColor=white" alt="Inspect the Fintech Transaction Engine code" /></a>
 
-[![View source code](https://img.shields.io/badge/VIEW%20SOURCE-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kisilumueti/fintech-transaction-engine)
+<sub>Project is under active development. It is not represented as a live payment processor or production banking platform.</sub>
 
-## 04 / Healthcare & business systems
+### Other solution domains
 
-I have supported and worked with technology in healthcare and business environments, including:
+I also work across web-based business applications, healthcare information systems, operational tools, and integrated digital workflows. The repository list is the source of truth for publicly available code and project maturity.
 
-- Hospital information system support, including **AphiaOne**.
-- User account support, workstation configuration, printers, and troubleshooting.
-- Database-driven business applications and operational reporting.
-- Web application development and systems integration.
-- Supporting the reliability of day-to-day technology operations.
+<a href="https://github.com/kisilumueti?tab=repositories"><img src="https://img.shields.io/badge/VIEW%20ALL%20REPOSITORIES-1F2937?style=for-the-badge&logo=github&logoColor=white" alt="View all repositories" /></a>
 
-## 05 / Professional experience
+## DIGITAL MEDIA & SOCIAL PLATFORM OPERATIONS
 
-**Lead ICT Officer — Dr. Spice Organics Ltd**  
+<div align="center">
+
+<a href="https://www.tiktok.com/@jbinspires">
+  <img src="https://img.shields.io/badge/TIKTOK-@jbinspires-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="JBinspires TikTok" />
+</a>
+<a href="https://youtube.com/@jbinspires_official">
+  <img src="https://img.shields.io/badge/YOUTUBE-@jbinspires__official-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="JBinspires YouTube" />
+</a>
+
+</div>
+
+### JBinspires — creator brand & content platform
+
+I manage and develop the **JBinspires** digital content brand, focused on faith-based inspiration, prayer, encouragement, and motivational content.
+
+This work brings together:
+- Content strategy, topic planning, and publishing workflows.
+- Short-form and long-form video content operations.
+- YouTube and TikTok channel management.
+- Audience analytics, performance review, and content optimisation.
+- Community engagement and audience development.
+- Cross-platform brand consistency and digital distribution.
+
+**Social media management is also a technology discipline:** analytics, publishing systems, audience workflows, content operations, and digital growth all rely on structured processes and measurable feedback.
+
+## PROFESSIONAL EXPERIENCE
+
+### Lead ICT Officer — Dr. Spice Organics Ltd
 *June 2025 – Present*
 
 - Coordinate ICT operations and provide technical support across business operations.
 - Develop and maintain web-based business systems and database-driven applications.
 - Support users, devices, networks, printers, access controls, and business technology.
 - Work with system data, reporting, application troubleshooting, and operational improvements.
+- Support business workflows through technology and systems integration.
 
-**ICT Support — Machakos County Government (Volunteer / Internship)**  
-*January 2024 – August 2024*
+### ICT Support — Machakos County Government
+*Volunteer / Internship · January 2024 – August 2024*
 
 - Supported ICT operations at Kangundo Level 4 Hospital and other county health facilities.
 - Assisted with hospital information system support, including AphiaOne.
 - Supported user accounts, workstations, printers, troubleshooting, and daily ICT operations.
 
-## 06 / Education & certifications
+## EDUCATION & CERTIFICATIONS
 
 - **Bachelor of Business Information Technology** — St. Paul's University
 - Oracle Fusion Cloud Applications — HCM Certified Foundations Associate
@@ -128,37 +262,38 @@ I have supported and worked with technology in healthcare and business environme
 - Chartered Data Science Certified
 - Data Science — Level 1
 
-## 07 / GitHub activity
+## GITHUB ANALYTICS CONSOLE
 
 <div align="center">
 
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=kisilumueti&show_icons=true&hide_border=true&theme=transparent&title_color=0F766E&icon_color=0F766E&rank_icon=github&include_all_commits=true" alt="GitHub contribution statistics" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kisilumueti&layout=compact&hide_border=true&theme=transparent&title_color=0F766E&langs_count=8" alt="Most used programming languages" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=kisilumueti&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&border_radius=12" alt="GitHub statistics" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kisilumueti&layout=donut-vertical&langs_count=8&theme=tokyonight&hide_border=true&border_radius=12" alt="Top languages from public repositories" />
+
+<br/><br/>
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=kisilumueti&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true&radius=10" alt="GitHub contribution activity graph" />
+
+<br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=kisilumueti&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1" width="100%" alt="GitHub profile trophies" />
 
 </div>
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kisilumueti&bg_color=00000000&color=0F766E&line=0F766E&point=0EA5A4&area=true&hide_border=true" width="100%" alt="GitHub contribution activity graph" />
-</div>
+## CONNECT / COLLABORATE
 
-## 08 / Let's connect
-
-Interested in opportunities and collaboration involving **backend development, healthcare technology, application support, systems administration, and IT operations**.
+Open to opportunities and collaboration in software development, backend engineering, healthcare technology, enterprise systems, application support, IT operations, AI-enabled solutions, and digital product development.
 
 <div align="center">
 
-  <a href="https://muetiintegratedsolutions.com">
-    <img src="https://img.shields.io/badge/WEBSITE-muetiintegratedsolutions.com-0F766E?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio website" />
-  </a>
-  <a href="https://www.linkedin.com/in/johnboscokisilumueti">
-    <img src="https://img.shields.io/badge/LINKEDIN-Johnbosco%20Mueti-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn profile" />
-  </a>
-  <a href="mailto:muetijohnbosco35@gmail.com">
-    <img src="https://img.shields.io/badge/EMAIL-Let's%20talk-BB4B3E?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Johnbosco" />
-  </a>
+<a href="https://muetiintegratedsolutions.com"><img src="https://img.shields.io/badge/PORTFOLIO-Mueti%20Integrated%20Solutions-0F766E?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+<a href="https://www.linkedin.com/in/johnboscokisilumueti"><img src="https://img.shields.io/badge/LINKEDIN-Professional%20Network-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://github.com/kisilumueti"><img src="https://img.shields.io/badge/GITHUB-Source%20Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+<a href="mailto:muetijohnbosco35@gmail.com"><img src="https://img.shields.io/badge/EMAIL-Direct%20Contact-BB4B3E?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="https://www.tiktok.com/@jbinspires"><img src="https://img.shields.io/badge/JBINSPIRES-TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="JBinspires TikTok" /></a>
+<a href="https://youtube.com/@jbinspires_official"><img src="https://img.shields.io/badge/JBINSPIRES-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="JBinspires YouTube" /></a>
 
-  <br />
+<br/><br/>
 
-  <sub>ENGINEER WITH PURPOSE · BUILD WITH DISCIPLINE · IMPROVE CONTINUOUSLY</sub>
+<sub>DESIGN • ENGINEER • INTEGRATE • SUPPORT • IMPROVE</sub>
 
 </div>
